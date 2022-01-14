@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**crystoll/crystoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a lot of cool Youtube videos!
 
+[DevXPlaining Channel](https://www.youtube.com/c/devxplaining)
+
+ 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
