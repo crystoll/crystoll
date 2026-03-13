@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a lot of cool Youtube videos!
+Just some personal pet projects here
 
-[DevXPlaining Channel](https://www.youtube.com/c/devxplaining)
 
- 
 <!--
 Here are some ideas to get you started:
 
